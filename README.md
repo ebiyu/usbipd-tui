@@ -2,7 +2,7 @@
 
 A simple terminal user interface for usbipd.
 
-![usbipd-tui](docs/screenshot.png)
+![usbipd-tui](doc/screenshot.png)
 
 Just basic functionality for now. More to come.
 
