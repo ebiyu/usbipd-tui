@@ -2,6 +2,8 @@
 
 A simple terminal user interface for usbipd.
 
+![usbipd-tui](docs/screenshot.png)
+
 Just basic functionality for now. More to come.
 
 ## Installation
